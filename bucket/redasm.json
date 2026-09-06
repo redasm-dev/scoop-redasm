@@ -17,7 +17,7 @@
     "shortcuts": [
         [
             "redasm-gui.exe",
-            "REDasm Disassembler (Beta)"
+            "REDasm Disassembler"
         ]
     ],
     "checkver": {
