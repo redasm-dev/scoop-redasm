@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "redasm-dev/scoop-redasm:master"
+    [String]$upstream = 'redasm-dev/scoop-redasm:master'
 )
 
 if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }
